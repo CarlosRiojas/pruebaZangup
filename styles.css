@@ -98,10 +98,10 @@
   height: 100%;
   margin: 10px;
   padding: 10px;
-  border-left: 2px solid #b7ecea;
-  border-bottom: 2px solid #b7ecea;
-  border-top: 1px solid #b7ecea;
-  border-right: 1px solid #b7ecea;
+  border-left: 2px solid #fc68fe;
+  border-bottom: 2px solid #fc68fe;
+  border-top: 1px solid #fc68fe;
+  border-right: 1px solid #fc68fe;
 }
 /* FILA TRES */
 .containerThree {
@@ -146,10 +146,10 @@
   height: 100%;
   margin: 10px;
   padding: 10px;
-  border-left: 2px solid #b7ecea;
-  border-bottom: 2px solid #b7ecea;
-  border-top: 1px solid #b7ecea;
-  border-right: 1px solid #b7ecea;
+  border-left: 2px solid#facbb1;
+  border-bottom: 2px solid #facbb1;
+  border-top: 1px solid #facbb1;
+  border-right: 1px solid #facbb1;
 }
 
 .imagText {
