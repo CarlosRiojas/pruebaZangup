@@ -1,0 +1,188 @@
+.mainHeading {
+  display: flex;
+  align-content: center;
+  padding: 5%;
+}
+
+#headingNumbrs {
+  font-family: "Open Sans", sans-serif;
+}
+/* FILA UNO */
+.containerOne {
+  height: 400px;
+  position: relative;
+  margin: 20px;
+  justify-content: center;
+}
+
+.box {
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  top: 10px;
+}
+
+.imageMid {
+  position: relative;
+  height: 100%;
+  left: 20px;
+  z-index: 1;
+}
+
+.cardOne {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+  width: 30%;
+  margin: -120px;
+  left: 32rem;
+  bottom: 19rem;
+  box-shadow: 1px 2px 2px 1px #818181;
+  z-index: 1;
+}
+
+.cardOneInside {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  border-left: 2px solid #b7ecea;
+  border-bottom: 2px solid #b7ecea;
+  border-top: 1px solid #b7ecea;
+  border-right: 1px solid #b7ecea;
+}
+/* FILA DOS */
+.containerTwo {
+  height: 400px;
+  position: relative;
+  margin: 20px;
+  justify-content: center;
+}
+
+.box2 {
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  top: 10px;
+}
+
+.imageMid2 {
+  position: relative;
+  height: 100%;
+  left: 34rem;
+  z-index: 1;
+}
+
+.cardTwo {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+  width: 30%;
+  margin: -120px;
+  left: 25rem;
+  bottom: 19rem;
+  box-shadow: 1px 2px 2px 1px #818181;
+  z-index: 1;
+}
+
+.cardTwoInside {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  border-left: 2px solid #b7ecea;
+  border-bottom: 2px solid #b7ecea;
+  border-top: 1px solid #b7ecea;
+  border-right: 1px solid #b7ecea;
+}
+/* FILA TRES */
+.containerThree {
+  height: 400px;
+  position: relative;
+  margin: 20px;
+  justify-content: center;
+}
+
+.box3 {
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  top: 10px;
+}
+
+.imageMid3 {
+  position: relative;
+  height: 100%;
+  left: 20px;
+  z-index: 1;
+}
+
+.cardThree {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 70%;
+  width: 30%;
+  margin: -120px;
+  left: 32rem;
+  bottom: 19rem;
+  box-shadow: 1px 2px 2px 1px #818181;
+  z-index: 1;
+}
+
+.cardThreeInside {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  border-left: 2px solid #b7ecea;
+  border-bottom: 2px solid #b7ecea;
+  border-top: 1px solid #b7ecea;
+  border-right: 1px solid #b7ecea;
+}
+
+.imagText {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerSomth {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tryOut {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  border-radius: 36px;
+  padding: 6px;
+  width: 40%;
+  color: black;
+  border: 3px solid blue;
+}
+/*footerCont {
+  display: flex;
+  flex-direction: column;
+}
+
+.footerText {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+} */
